@@ -40,8 +40,8 @@ Python Pandas Git ML Algorithms AI Tools
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-PiGzY&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-PiGzY&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Immortal-code-creator&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-code-creator&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
