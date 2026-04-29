@@ -105,8 +105,7 @@ int main() {
 ## ⚡ Fun Fact
 
 > I Enjoy Solving Real-World Problems 😄
-> The Zen of Python
-
+The Zen of Python
 ```python
 import this
 ```
