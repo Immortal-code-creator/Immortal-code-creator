@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Aeshan Chowdhury
 
-<!-- Animated Typing Text -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Developer;Machine+Learning+Enthusiast;Building+Cool+Projects;Exploring+AI+%26+Modern+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Developer;Machine+Learning+Enthusiast;DSA+Problem+Solver;Building+AI+Projects;Exploring+Modern+Tech" />
 </p>
 
 ---
@@ -20,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C,python,cpp,pandas,numpy,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pandas,numpy,git,github,vscode" />
 </p>
 
 ---
@@ -34,10 +32,26 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Immortal-code-creator&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Immortal-code-creator&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -59,6 +73,9 @@
   <a href="mailto:aeshanchowdhury50@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://leetcode.com/u/Mr-PiGzY/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 ---
@@ -72,8 +89,6 @@ import this
 ```
 
 ---
-
-<!-- Footer Wave -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
