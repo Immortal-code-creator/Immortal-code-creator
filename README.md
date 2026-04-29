@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Aeshan Chowdhury
 
-<!--
-**Immortal-code-creator/Immortal-code-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Developer | ML Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Student passionate about **Machine Learning & Development**
+* 🌱 Currently learning **Python, Pandas, Git, and AI tools**
+* 🧠 Exploring **ML Algorithms and modern AI stacks**
+* ⚡ Love solving **DSA & real-world problems**
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Languages: Python, C++, JavaScript  
+Libraries: Pandas, NumPy, Matplotlib  
+Tools: Git, GitHub, VS Code  
+Learning: Machine Learning, AI, Backend Development
+```
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-PiGzY\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-PiGzY\&layout=compact)
+
+---
+
+## 🔥 Projects
+
+* 🚀 Python Projects
+* 📊 Data Analysis with Pandas
+* 🧠 Machine Learning Models
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/aeshan-chowdhury-2975a332b/
+* 📧 Email: [aeshanchowdhury50@gmail.com](mailto:aeshanchowdhury50@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy solving problems that others find too difficult 😄
+> 🐍 *Also, I believe in the Zen of Python...*
+
+```python
+import this
+```
+
+---
+
+⭐ *"Consistency beats talent when talent doesn’t work hard."*
