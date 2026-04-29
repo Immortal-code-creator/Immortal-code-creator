@@ -1,82 +1,71 @@
-# 👨‍💻 Hi, I'm Aeshan Chowdhury
+# 👋 Hi, I'm Aeshan Chowdhury
 
 <!-- Animated Typing Text -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Machine+Learning+Enthusiast;DSA+Problem+Solver;Exploring+AI+and+Modern+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Developer;Machine+Learning+Enthusiast;Building+Cool+Projects;Exploring+AI+%26+Modern+Tech" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-```bash
-> whoami
-Aeshan Chowdhury
-
-> interests
-Machine Learning | AI | Backend | Problem Solving
-
-> currently_learning
-Python Pandas Git ML Algorithms AI Tools
-
-> mindset
-"Consistency > Talent"
-```
+* 🎓 Student passionate about **Machine Learning & Development**
+* 🌱 Currently learning **Python, Pandas, Git, and AI tools**
+* 🧠 Exploring **ML Algorithms & modern AI stacks**
+* ⚡ Love solving **DSA & real-world problems**
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-```bash
-💻 Languages:    Python | C++ | JavaScript
-📚 Libraries:    Pandas | NumPy | Matplotlib
-🛠️ Tools:        Git | GitHub | VS Code
-🚀 Learning:     ML | AI | Backend Dev
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,pandas,numpy,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Immortal-code-creator&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-code-creator&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Immortal-code-creator&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-code-creator&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🧬 Contribution Graph (Hacker Style)
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Immortal-code-creator&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Immortal-code-creator&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Projects
 
-```bash
-🚀 Python Projects
+✨ Python Projects
 📊 Data Analysis with Pandas
 🧠 Machine Learning Models
-```
 
 ---
 
 ## 🌐 Connect With Me
 
-```bash
-LinkedIn: https://www.linkedin.com/in/aeshan-chowdhury-2975a332b/
-Email:    aeshanchowdhury50@gmail.com
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/aeshan-chowdhury-2975a332b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aeshan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:aeshanchowdhury50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
 > I enjoy solving problems that others find too difficult 😄
-> 🐍 The Zen of Python guides me:
 
 ```python
 import this
@@ -84,6 +73,8 @@ import this
 
 ---
 
+<!-- Footer Wave -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
 </p>
