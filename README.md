@@ -24,14 +24,6 @@ Learning: Machine Learning, AI, Backend Development
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-PiGzY\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-PiGzY\&layout=compact)
-
----
-
 ## 🔥 Projects
 
 * 🚀 Python Projects
