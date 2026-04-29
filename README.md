@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aeshan Chowdhury
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00BFFF&center=true&vCenter=true&width=750&lines=Immortal+Code+Creator;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;DSA+Problem+Solver;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00BFFF&center=true&vCenter=true&width=750&lines=Aspiring+Developer;Machine+Learning+Enthusiast;DSA+Problem+Solver;Building+AI+Projects;Exploring+Modern+Tech" />
 </p>
 
 ---
