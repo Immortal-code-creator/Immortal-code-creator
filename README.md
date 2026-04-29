@@ -82,7 +82,7 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy solving problems that others find too difficult 😄
+> I enjoy solving Real-World problems 😄
 
 ```python
 import this
