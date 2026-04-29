@@ -104,7 +104,8 @@ int main() {
 
 ## ⚡ Fun Fact
 
-> I debug faster when I listen to music 🎧
+> I Enjoy Solving Real-World Problems 😄
+> The Zen of Python
 
 ```python
 import this
