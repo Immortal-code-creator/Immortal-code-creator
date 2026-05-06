@@ -37,9 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Immortal-code-creator&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Immortal-code-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
-</p>
+  <https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Immortal-code-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook/>
 </p>
 
 
