@@ -44,6 +44,17 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Immortal-code-creator&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+---
+
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
