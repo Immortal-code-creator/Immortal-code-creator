@@ -18,8 +18,18 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pandas,numpy,Matplotlib,git,github,vscode" />
+  <!-- Languages & Tools -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode" />
 </p>
+
+<p align="center">
+  <!-- Libraries -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
+
+
 
 ---
 
